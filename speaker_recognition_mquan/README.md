@@ -8,9 +8,9 @@ Dự án triển khai một hệ thống Web API hoàn chỉnh bằng **FastAPI*
 
 ## 1. Thông Tin Sinh Viên (Student Information)
 
-- **Họ và tên**: [Điền họ và tên của bạn]
-- **Mã số sinh viên (MSSV)**: [Điền MSSV]
-- **Lớp**: [Điền tên lớp]
+- **Họ và tên**: Nguyễn Minh Quân
+- **Mã số sinh viên (MSSV)**: 25127124
+- **Lớp**: CT_25C09
 - **Khoa**: Công nghệ Thông tin - Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM
 
 ---
@@ -178,7 +178,7 @@ Kết quả mong đợi:
 
 ## 9. Video Báo Cáo & Trình Diễn (Demonstration Video)
 
-- **Link Video Demo (YouTube / Google Drive)**: [Dán link video demo <= 5 phút của bạn vào đây]
+- **Link Video Demo (YouTube / Google Drive)**:(https://drive.google.com/file/d/1plOt5_Ui8-4J7uAbq_Z6k8m5Y1ssePKa/view?usp=sharing)
 - Kịch bản quay video demo hoàn toàn trên Terminal (dưới 5 phút):
   1. **Giới thiệu**: Tên sinh viên, đề tài và mô hình Hugging Face (`hynt/Zipformer-30M-RNNT-Streaming-6000h`).
   2. **Giải thích code**: Giới thiệu nhanh cấu trúc các file (`app.py`, `asr_engine.py`, `stream_mic.py`, `test_api.py`).
